@@ -13,6 +13,6 @@ public class LogDemoService {
 
     public void logic(String id) {
 
-        myLogger.log("service id = " + id);
+        myLogger.log("service id = 1" + id);
     }
 }
